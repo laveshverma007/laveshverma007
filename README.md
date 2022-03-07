@@ -3,7 +3,8 @@
 <div align="center"># Welcome To My GitHub Profile !</div>
 <br>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Lavesh</h1>
-<h3 align="center">I'm passionate about learning programmes, a never ending process.</h3>
+<h3 align="center">console.log('Exploring...')</h3>
+<br>
 ## 🙋‍♂️ About Me:
 
 - 👨‍🎓 Fresher at IIIT Lucknow, India
