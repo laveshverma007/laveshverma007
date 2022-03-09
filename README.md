@@ -1,4 +1,4 @@
-<div align="center"><a href="#"><img width="30%" height="auto" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a></div>
+<div align="center"><a href="#"><img width="50%" height="auto" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" height="175px"/></a></div>
 <br>
 <div align="center"># Welcome To My GitHub Profile !</div>
 <br>
