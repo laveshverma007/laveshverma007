@@ -36,7 +36,8 @@
 <br/>
 ## Connect with me:
 <p align="left">
-<a href = "linkedin.com/in/lavesh-soni-1086471a8/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    
+<a href="https://www.linkedin.com/in/lavesh-verma-1086471a8/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 ## ❤ Views and Followers
 <a href="https://github.com/laveshverma007/github-profile-views-counter" target="_blank">
